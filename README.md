@@ -21,6 +21,11 @@ Please clone the GitHub repository before using it and feel free to do any impro
 ```
 $ git clone https://github.com/Nitrof78/Fashion_Forward_Forecasting  
 $ cd Fashion_Forward_Forecasting
+```  
+Be also sure to have SpaCy installed or do it manually if necessary
+```
+pip install spacy
+python -m spacy download en_core_web_sm
 ```
 
 ## Necessary libraries
